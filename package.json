@@ -1,0 +1,12 @@
+{
+  "name": "@roowix/handbook",
+  "version": "0.0.1",
+  "license": "https://roowix.com",
+  "scripts": {
+    "serve": "./node_modules/docsify-cli/bin/docsify serve ./docs"
+  },
+  "private": true,
+  "dependencies": {
+    "docsify-cli": "^4.4.0"
+  }
+}
