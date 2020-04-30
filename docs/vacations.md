@@ -2,4 +2,4 @@
 
 Описание отпусков
 
-![Taxi](/media/taxi_gopher.png)
+![Taxi](_media/taxi_gopher.png)
