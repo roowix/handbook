@@ -5,4 +5,4 @@
 ![Taxi](_media/taxi_gopher.png)
 
 авпвап
-![Taxi](_media/Обходной лист.png)
+![Taxi](_media/Обходной_лист.png)
