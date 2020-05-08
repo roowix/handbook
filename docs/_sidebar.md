@@ -5,6 +5,7 @@
     - [Рабочие процессы](workprocess.md)
     - [Рабочий график](worktime.md)
     - [Отпуска и отгулы](vacations.md)
+    - [Dom.roowix](dom.md)
     - [Обучение](education.md)
     - [Преимущества](perks.md)
     - [Повышения](levelup.md)
