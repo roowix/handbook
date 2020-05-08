@@ -1,4 +1,5 @@
 - Общее
+    - [О компании](company.md)
     - [Onboarding](onboarding.md)
     - [Офис](office.md)
     - [Рабочие процессы](workprocess.md)
