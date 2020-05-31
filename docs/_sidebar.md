@@ -1,6 +1,6 @@
 - Общее
     - [О компании](company.md)
-    - [Onboarding](onboarding.md)
+    - [Онбординг](onboarding.md)
     - [Офис](office.md)
     - [Рабочие процессы](workprocess.md)
     - [Рабочий график](worktime.md)
