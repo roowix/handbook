@@ -4,6 +4,7 @@
     - [Офис](office.md)
     - [Рабочие процессы](workprocess.md)
     - [Рабочий график](worktime.md)
+    - [Корпоративная культура](culture.md)
     - [Отпуска и отгулы](vacations.md)
     - [Dom.roowix](dom.md)
     - [Обучение](education.md)
