@@ -1,5 +1,6 @@
 - Общее
     - [О компании](company.md)
+    - [Как к нам попасть](recruiting.md)
     - [Онбординг](onboarding.md)
     - [Офис](office.md)
     - [Рабочие процессы](workprocess.md)
