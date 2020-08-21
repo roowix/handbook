@@ -14,4 +14,7 @@
 - Разработка
     - [Создание репозиториев](/dev/repositories.md)
     - [PHP](/dev/php.md)
-    - [Design](/dev/design.md)
+- [Design](/design/process.md)
+    - [Глоссарий](/design/glossary.md)
+    - [Лучшие практики](/design/practices.md)
+    

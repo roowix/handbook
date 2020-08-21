@@ -1,10 +1,7 @@
 # Best Practices #
 
-
-
 ## UX ##
 Отслеживание трендов https://trends.uxdesign.cc/
-
 
 ### - Исследование ###
 
