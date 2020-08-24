@@ -7,7 +7,7 @@
     - [Целеполагание](okr.md)
     - [Рабочий график](worktime.md)
     - [Корпоративная культура](culture.md)
-    - [Профессиональный рост и развитие](prof_growth.md)
+    - [Обучение и развитие](prof_growth.md)
     - [Отпуска и отгулы](vacations.md)
     - [Dom.roowix](dom.md)
     - [Преимущества](perks.md)
