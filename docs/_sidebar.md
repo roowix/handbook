@@ -17,5 +17,4 @@
     - [PHP](/dev/php.md)
 - [Design](/design/process.md)
     - [Глоссарий](/design/glossary.md)
-    - [Лучшие практики](/design/practices.md)
     
