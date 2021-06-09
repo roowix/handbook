@@ -13,4 +13,4 @@ http://wiki.c2.com/?ArrangeActAssert
 Если проект не требует иного, то используем PSR
 https://www.php-fig.org/psr/psr-12/
 
-Всё, что не описано в PSR стоит описать в проекте в виде dockerfile. 
+Всё, что не описано в PSR, стоит описать в README-файле проекта. 
